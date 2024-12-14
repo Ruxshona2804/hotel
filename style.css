@@ -152,6 +152,8 @@ h1 {
     text-align: center;
     color: white;
     margin-top: 40px;
+    border: none;
+    outline: none;
 }
 
 .face {
